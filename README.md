@@ -68,7 +68,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 - 👨‍💻 All of my projects are available at [https://github.com/punitgavali](https://github.com/punitgavali)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/punit-gavali-5bb906262](https://www.linkedin.com/in/punit-gavali-5bb906262)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/punit-gavali-4066b41ba](https://www.linkedin.com/in/punit-gavali-4066b41ba/)
 
 - 💬 Ask me about *python,javascript and html css,mysql,cybersecurity*
 
