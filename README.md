@@ -66,7 +66,7 @@ TypeScript               3 repos             █░░░░░░░░░░�
 
 - 🌱 I’m currently learning *DJANGO AND NODEJS*
 
-- 👨‍💻 All of my projects are available at [https://github.com/punitgavali](https://github.com/punitgavali)
+- 👨‍💻 All of my projects are available at [https://github.com/punit2911](https://github.com/punit2911)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/punit-gavali-4066b41ba](https://www.linkedin.com/in/punit-gavali-4066b41ba/)
 
