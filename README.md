@@ -93,6 +93,7 @@ SQL          █░░░░░░░░░░░░░░░░░░░░░�
 
 ## 📊 My GitHub Activity
 
+<div align="center">
 ![Stats Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=punit2911&theme=2077)  
 ![Languages Card](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=punit2911&theme=2077)
-
+</div>
