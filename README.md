@@ -50,7 +50,6 @@ SQL          █░░░░░░░░░░░░░░░░░░░░░�
 
 [![GitHub](https://img.shields.io/badge/GitHub-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/punit2911)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punit-gavali-4066b41ba/)  
-[![Twitter](https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge)](https://twitter.com/)  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+profile!;AI+%26+ML+enthusiast;Exploring+the+future&font=Fira%20Code&color=%2300FF00&center=true&width=400&height=50">
