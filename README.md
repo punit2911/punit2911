@@ -115,7 +115,7 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=punit2911&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=punit2911&bg_color=0d1117&color=38bdf8&line=a78bfa&point=ffffff&area=true&area_color=a78bfa&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
 </p>
 
 <p align="center">
