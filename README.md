@@ -91,7 +91,7 @@ SQL          █░░░░░░░░░░░░░░░░░░░░░�
     <td align="center"><img src="https://skillicons.dev/icons?i=github" width="56" height="56" /><br><sub><b>GitHub</b></sub></td>
   </tr>
 </table>
----
+
 
 ## 🏆 Achievements  
 
