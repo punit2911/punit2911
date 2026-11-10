@@ -31,7 +31,7 @@ const punit = {
 
 ## 🔧 Current Work
 
-- 🔭 AI Intern at **Industrial Light & Magic (ILM)**, Production Technology, Mumbai
+- 🔭 Ex-AI Intern at **Industrial Light & Magic (ILM)**, Production Technology, Mumbai
 - 🎓 AI Lead Instructor at **DrippinAI Labs**, Full Stack AI Engineer course
 - 🌱 Going deeper on **agent orchestration, evaluation and LLM fine-tuning**
 - 💬 Ask me about **RAG, agentic AI, LLMs, Python and ML**
