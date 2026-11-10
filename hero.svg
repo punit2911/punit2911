@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0f1a"/>
+      <stop offset="1" stop-color="#14233a"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" x2="1">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <style>
+      .edge{fill:none;stroke:#38bdf8;stroke-opacity:.35;stroke-width:1.2;stroke-dasharray:4 6;animation:flow 2.4s linear infinite}
+      .e2{stroke:#a78bfa;animation-delay:.4s}
+      .e3{stroke:#34d399;animation-delay:.8s}
+      @keyframes flow{to{stroke-dashoffset:-20}}
+      .node{fill:#0b0f1a;stroke:#38bdf8;stroke-width:2;animation:pulse 2.4s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+      .n2{stroke:#a78bfa;animation-delay:.4s}
+      .n3{stroke:#34d399;animation-delay:.8s}
+      .n4{stroke:#f472b6;animation-delay:1.2s}
+      @keyframes pulse{0%,100%{transform:scale(1);fill:#0b0f1a}50%{transform:scale(1.4);fill:#1e3a5f}}
+      .name{font:700 48px 'Segoe UI',Arial,sans-serif;fill:url(#title)}
+      .sub{font:500 21px 'Fira Code',Consolas,monospace;fill:#cbd5e1;opacity:0}
+      .s1{animation:show 12s infinite}
+      .s2{animation:show 12s infinite 3s}
+      .s3{animation:show 12s infinite 6s}
+      .s4{animation:show 12s infinite 9s}
+      @keyframes show{0%{opacity:0}4%,22%{opacity:1}26%,100%{opacity:0}}
+      .bar{fill:#38bdf8;opacity:.8;animation:grow 3s ease-in-out infinite;transform-box:fill-box;transform-origin:left}
+      @keyframes grow{0%,100%{transform:scaleX(.3)}50%{transform:scaleX(1)}}
+    </style>
+  </defs>
+
+  <rect width="900" height="260" rx="14" fill="url(#bg)"/>
+  <rect x="0.5" y="0.5" width="899" height="259" rx="14" fill="none" stroke="#38bdf8" stroke-opacity=".25"/>
+
+  <path class="edge" d="M60 70L150 50M60 70L150 105M60 70L150 155M60 70L150 210M60 130L150 50M60 130L150 105M60 130L150 155M60 130L150 210M60 190L150 50M60 190L150 105M60 190L150 155M60 190L150 210"/>
+  <path class="edge e2" d="M150 50L240 70M150 50L240 130M150 50L240 190M150 105L240 70M150 105L240 130M150 105L240 190M150 155L240 70M150 155L240 130M150 155L240 190M150 210L240 70M150 210L240 130M150 210L240 190"/>
+  <path class="edge e3" d="M240 70L330 100M240 70L330 160M240 130L330 100M240 130L330 160M240 190L330 100M240 190L330 160"/>
+
+  <circle class="node" cx="60" cy="70" r="9"/>
+  <circle class="node" cx="60" cy="130" r="9"/>
+  <circle class="node" cx="60" cy="190" r="9"/>
+
+  <circle class="node n2" cx="150" cy="50" r="9"/>
+  <circle class="node n2" cx="150" cy="105" r="9"/>
+  <circle class="node n2" cx="150" cy="155" r="9"/>
+  <circle class="node n2" cx="150" cy="210" r="9"/>
+
+  <circle class="node n3" cx="240" cy="70" r="9"/>
+  <circle class="node n3" cx="240" cy="130" r="9"/>
+  <circle class="node n3" cx="240" cy="190" r="9"/>
+
+  <circle class="node n4" cx="330" cy="100" r="10"/>
+  <circle class="node n4" cx="330" cy="160" r="10"/>
+
+  <text class="name" x="410" y="115">Punit Gavali</text>
+
+  <text class="sub s1" x="410" y="160">AI / ML Engineer</text>
+  <text class="sub s2" x="410" y="160">Building agentic AI systems</text>
+  <text class="sub s3" x="410" y="160">RAG · LangGraph · LLM fine-tuning</text>
+  <text class="sub s4" x="410" y="160">Production AI with Docker &amp; AWS</text>
+
+  <rect class="bar" x="410" y="185" width="200" height="3" rx="1.5"/>
+</svg>
