@@ -114,9 +114,6 @@ flowchart LR
   <img src="https://streak-stats.demolab.com?user=punit2911&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=punit2911&bg_color=0d1117&color=38bdf8&line=a78bfa&point=ffffff&area=true&area_color=a78bfa&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/punit2911/punit2911/output/github-snake-dark.svg" alt="Contribution snake" />
