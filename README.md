@@ -78,18 +78,18 @@ SQL          █░░░░░░░░░░░░░░░░░░░░░�
 
 ## ⚙️ My Favorite Tools & Technologies  
 
-<table> 
-  <tr> 
-    <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" /><br>Python</td> 
-    <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" /><br>JavaScript</td> 
-    <td align="center"><img src="https://techstack-generator.vercel.app/django-icon.svg" width="65" height="65" /><br>Django</td> 
-    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" /><br>TensorFlow</td> 
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="48" height="48" /><br>Keras</td> 
-    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" /><br>PyTorch</td> 
-    <td align="center"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" /><br>Docker</td> 
-    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" /><br>AWS</td> 
-    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" /><br>GitHub</td> 
-  </tr> 
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="56" height="56" /><br><sub><b>Python</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js" width="56" height="56" /><br><sub><b>JavaScript</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=django" width="56" height="56" /><br><sub><b>Django</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tensorflow" width="56" height="56" /><br><sub><b>TensorFlow</b></sub></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="56" height="56" /><br><sub><b>Keras</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="56" height="56" /><br><sub><b>PyTorch</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="56" height="56" /><br><sub><b>Docker</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="56" height="56" /><br><sub><b>AWS</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="56" height="56" /><br><sub><b>GitHub</b></sub></td>
+  </tr>
 </table>
 ---
 
