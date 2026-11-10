@@ -105,9 +105,11 @@ SQL          █░░░░░░░░░░░░░░░░░░░░░�
 
 <h2 align="center">📊 My GitHub Activity</h2>
 
-<table align="center">
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=punit2911&theme=2077" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=punit2911&theme=2077" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=punit2911&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=punit2911&theme=tokyonight" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=punit2911&theme=tokyonight" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=punit2911&theme=tokyonight" width="48%" />
+</p>
