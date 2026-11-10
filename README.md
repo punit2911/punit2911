@@ -8,20 +8,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Punit%20Gavali&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Agentic%20AI%20%7C%20RAG&descAlignY=58&descSize=18" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+agentic+AI+systems;RAG+pipelines+%7C+LLM+fine-tuning;LangGraph+%7C+LangChain+%7C+n8n;Turning+LLMs+into+production+tools&font=Fira%20Code&color=%2300FF00&center=true&width=500&height=50">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=punit2911&color=blue" alt="Profile views"/>
-</p>
-
----
-
 ## 👨‍💻 About Me
 
 I'm an AI/ML engineer who builds LLM applications end to end: RAG pipelines, fine-tuned models and multi-step agents, shipped with Docker and AWS. I also teach the Full Stack AI Engineer course at DrippinAI Labs.
