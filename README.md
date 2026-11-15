@@ -48,19 +48,23 @@ const punit = {
 I design agents as explicit state machines (LangGraph), not one giant prompt. Example flow from my recruitment pipeline:
 
 ```mermaid
-flowchart LR
-    A[Resume + Job Description] --> B[Parser Agent]
-    B --> C[Matching & Scoring Agent]
-    C --> D{Score above threshold?}
-    D -- Yes --> E[Shortlist + Summary]
-    D -- No --> F[Polite Rejection Draft]
-    E --> G[n8n: Notify Recruiter]
-    F --> G
+flowchart TD
+    A[Resume + Job Description] --> B[Shield: injection and hidden-text check]
+    B --> C[Blind redaction: names and schools hidden]
+    C --> D[Scorer A]
+    C --> E[Scorer B]
+    D --> F[Quote verifier: no quote, no credit]
+    E --> F
+    F --> G[Adjudicator]
+    G --> H[Decision policy]
+    H --> I{Recruiter approves?}
+    I -- Yes --> J[n8n: Discord alert + candidate email]
+    I -- No --> K[Held for review]
 ```
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🧑‍💼 **Agentic Recruitment Pipeline** | Multi-step agent that parses, scores and routes candidates | LangGraph, n8n, Groq |
+| 🧑‍💼 **HirePanel: Multi-Agent Recruitment Pipeline** | Multi-agent resume screener where every score needs a verified quote. Blocks prompt injection, hides names and schools, and a human approves every decision before n8n sends Discord alerts and emails | Ollama, FastAPI, n8n, Docker, MCP |
 | 🏢 **Enterprise RAG Chatbot** | Support assistant that cut support workload by about 42% | RAG, vector DB, LLMs |
 | 🏥 **MedQueryDoc AI** | Medical document Q&A | LLaMA-2, Pinecone |
 | 🧾 **Receiptorium Chatbot** | Fine-tuned LLaMA 3.2 assistant for a work-tracking platform | LLaMA 3.2, fine-tuning |
