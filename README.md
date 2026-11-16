@@ -65,12 +65,12 @@ flowchart TD
 | Project | What it does | Stack |
 |---|---|---|
 | 🏭 **[Meridian: Evidence-Grounded Multimodal RAG](https://github.com/punit2911/meridian-multimodal-rag)** | Multimodal RAG for industrial maintenance documents with 8 retrieval channels, page citations, conflict resolution, claim verification and evidence-based abstention. Achieved **90% answer correctness, 100% Hit@5 and 100% abstention recall** on held-out evaluation. | Python, Qdrant, Docker Compose, Ollama |
-| 🧑‍💼 **HirePanel: Multi-Agent Recruitment Pipeline** | Multi-agent resume screener where every score needs a verified quote. Blocks prompt injection, hides names and schools, and a human approves every decision before n8n sends Discord alerts and emails. | Ollama, FastAPI, n8n, Docker, MCP |
+| 🧑‍💼 **[HirePanel: Multi-Agent Recruitment Pipeline](https://github.com/punit2911/Hirepanel)** | Multi-agent resume screener where every score needs a verified quote. Blocks prompt injection, hides names and schools, and a human approves every decision before n8n sends Discord alerts and emails. | Ollama, FastAPI, n8n, Docker, MCP |
 | 🏢 **Enterprise RAG Chatbot** | Support assistant that cut support workload by about 42%. | RAG, vector DB, LLMs |
-| 🏥 **MedQueryDoc AI** | Medical document Q&A. | LLaMA-2, Pinecone |
+| 🏥 **[MedQueryDoc AI](https://github.com/punit2911/MedQueryDoc-AI-Intelligent-Medical-Document-Assistant)** | Medical document Q&A. | LLaMA-2, Pinecone |
 | 🧾 **Receiptorium Chatbot** | Fine-tuned LLaMA 3.2 assistant for a work-tracking platform. | LLaMA 3.2, fine-tuning |
 | 💳 **Transaction Anomaly Detection** | Flags suspicious financial transactions on a live dashboard. | Isolation Forest, Streamlit |
-| 🛡️ **PhisProbe** | Phishing link detection, published in IJNTI, IIT Roorkee Productathon finalist. | Streamlit, GenAI |
+| 🛡️ **[PhisProbe](https://github.com/punit2911/AI-Powered-Detection-of-Malicious-Phishing-Links)** | Phishing link detection, published in IJNTI, IIT Roorkee Productathon finalist. | Streamlit, GenAI |
 
 ---
 
